@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Bot With Luis/Bot With Luis/bin
+/Bot With Luis/Bot With Luis/obj
+/Bot With Luis/Bot With Luis/Properties/PublishProfiles
+/Bot With Luis/packages
